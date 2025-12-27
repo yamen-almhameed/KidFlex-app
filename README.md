@@ -29,7 +29,7 @@
 
 | طريقة الدفع 1 | طريقة الدفع 2 | اختيار الفئات 1 | اختيار الفئات 2 |
 |:---:|:---:|:---:|:---:|
-| ![Payment Method 1](screenshot-app/09_Payment_Method.png) | ![Payment Method 2](screenshot-app/11_Payment_Method_2.png) | ![Categories 1](screenshot-app/12_Categories.png) | ![Categories 2](screenshot-app/12_Categories_2.png) |
+| ![Payment Method 1](screenshot-app/09_Payment Method.png) | ![Payment Method 2](screenshot-app/11_Payment Method 2.png) | ![Categories 1](screenshot-app/12_Categories.png) | ![Categories 2](screenshot-app/12_Categories 2.png) |
 
 ### الميزات الرئيسية
 
