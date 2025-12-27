@@ -29,13 +29,13 @@
 
 | طريقة الدفع 1 | طريقة الدفع 2 | اختيار الفئات 1 | اختيار الفئات 2 |
 |:---:|:---:|:---:|:---:|
-| ![Payment Method 1](screenshot-app/09_Payment_Method.png) | ![Payment Method 2](screenshot-app/11_Payment_Method_2.png) | ![Categories 1](screenshot-app/12_Categories.png) | ![Categories 2](screenshot-app/12_Categories_2.png) |
+| ![Payment Method 1](screenshot-app/09_Payment%20Method.png) | ![Payment Method 2](screenshot-app/11_Payment_Method_2.png) | ![Categories 1](screenshot-app/12_Categories.png) | ![Categories 2](screenshot-app/12_Categories_2.png) |
 
 ### الميزات الرئيسية
 
 | اختيار الفئات 3 | المرح | قائمة الفيديوهات | مشغل الفيديو |
 |:---:|:---:|:---:|:---:|
-| ![Categories 3](screenshot-app/12_Categories_3.png) | ![Fun](screenshot-app/13__Fun.png) | ![Videos List](screenshot-app/14_Videos.png) | ![Video Player](screenshot-app/15_vide.png) |
+| ![Categories 3](screenshot-app/12_Categories_3.png) | ![Fun](screenshot-app/13_Fun.png) | ![Videos List](screenshot-app/14_Videos.png) | ![Video Player](screenshot-app/15_vide.png) |
 
 ### الإعدادات والملف الشخصي
 
